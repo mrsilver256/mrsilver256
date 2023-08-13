@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @mrsilver256
-- 👀 I’m interested in Android, Javascript
-- 🌱 I worked at Bravebits in developing JSN Page Builder 2 | Pagefly from 2016 until 2018
-- 💞️ I’m currently working on Easy Klass - A cross-platform application in managing learning centers
-- 💕 I've got back to work at PageFly as a React Developer since May 2021
-- I love writing, let's take a look at my personal blog https://chuhuuthanh.com
+- 👋 Hi, I’m Silver
+- I'm the Tech Lead of PageFly Page Builder, the #1 Page Builder on the Shopify platform
 - 📫 Contact me at mrsilver256@gmail.com
 
 <!---
